@@ -1,0 +1,1 @@
+web: jbang Main.java
